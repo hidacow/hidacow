@@ -8,5 +8,5 @@
 
 
 
-[![hidacow's GitHub stats](https://githubstats.ishs.gq/api?username=hidacow&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![hidacow's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidacow&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
