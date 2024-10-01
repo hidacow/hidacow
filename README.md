@@ -1,9 +1,5 @@
 ## 👋 Hi, I’m @hidacow
 
-👉 Major in Computer Science
-
-👀 I’m interested in Cloud Computing, Web Security
-
 ### Status
 
 
